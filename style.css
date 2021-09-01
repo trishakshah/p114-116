@@ -1,0 +1,24 @@
+.title{
+    font-family: 'Rampart One', cursive;
+     background-color: white;
+     font-size:80;
+     padding-bottom: 15px;
+}
+
+body{
+    background-repeat: repeat;
+}
+
+.buttonClick{
+    font-family: 'Rampart One', cursive;
+    font-size: 30;
+    height: 65px;
+    width: 100px;
+    border-radius: 20px;
+    border-color: black;
+    margin-top: 550px;
+}
+
+canvas{
+    margin-top: -75px;
+}
